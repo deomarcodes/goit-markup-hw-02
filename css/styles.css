@@ -9,6 +9,17 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.button {
+  background-color: #4d5ae5;
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
 .logo-style {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
@@ -180,16 +191,16 @@ body {
 
 /* Portfolio Section */
 
-.portfolio-button {
-  background-color: #f4f4fd;
+/* .portfolio-button {
+  background-color: #4d5ae5;
   font-family: Roboto, sans-serif;
-  color: #4d5ae5;
+  color: #434455;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-}
+} */
 
 .portfolio-button:hover,
 .portfolio-button:focus {
