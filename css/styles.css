@@ -177,3 +177,26 @@ body {
 .footerinside-logo {
   color: #f4f4fd;
 }
+
+/* Portfolio Section */
+
+.portfolio-button {
+  background-color: #f4f4fd;
+  font-family: Roboto, sans-serif;
+  color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.portfolio-button:hover,
+.portfolio-button:focus {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+
+.portfolio-button {
+  cursor: pointer;
+}
