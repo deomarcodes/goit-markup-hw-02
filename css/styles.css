@@ -1,3 +1,4 @@
+/* css variables */
 :root {
   --thebodytagcolor-color: #434455;
   --thesamecolor-color: white;
@@ -9,6 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* general styles */
 .button {
   background-color: #4d5ae5;
   font-family: Roboto, sans-serif;
@@ -189,18 +191,17 @@ body {
   color: #f4f4fd;
 }
 
-/* Portfolio Section */
+/* Portfolio-Section */
 
-/* .portfolio-button {
-  background-color: #4d5ae5;
+.portfolio-button {
+  background-color: #f4f4fd;
   font-family: Roboto, sans-serif;
-  color: #434455;
+  color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #ffffff;
-} */
+}
 
 .portfolio-button:hover,
 .portfolio-button:focus {
