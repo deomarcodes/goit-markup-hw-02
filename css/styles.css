@@ -3,6 +3,10 @@
   --thesamecolor-color: white;
 }
 
+body {
+  color: #434455;
+}
+
 .logo-style {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
