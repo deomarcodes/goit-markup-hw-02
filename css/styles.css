@@ -48,6 +48,11 @@
   color: #434455;
 }
 
+.contacts-color:hover,
+.contacts-color:focus {
+  color: #404bbf;
+}
+
 .contacts-color:hover {
   color: #404bbf;
 }
@@ -83,13 +88,9 @@
   color: #ffffff;
 }
 
-.first-section-button :hover,
-:focus {
+.first-section-button:hover,
+.first-section-button:focus {
   background-color: #404bbf;
-}
-
-.first-section-button :hover :focus {
-  color: #404bbf;
 }
 
 .first-section-button {
